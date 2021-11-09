@@ -9,11 +9,10 @@ body {
 
 table {
     text-align: center;
+    max-width: 1400px;
 }
 
-.cim {
-    text-align: center;
-}
+
 
 .center {
     margin-left: auto;
@@ -32,14 +31,32 @@ a:link {
 }
 .kk{
     background-image: linear-gradient(to bottom right, #141414, #3d3d3d);
+    min-height: 100%;
+    min-width: 100%;
 }
 #jkjk{
     min-width: 100px;
     text-align: center;
 }
 
+.profkep{
+        vertical-align: middle;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        box-shadow: 5px 5px 5px 2px black;
+        border: blanchedalmond solid 5px;
+}
+.avatar{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
 
-
+}
+td{
+    padding-bottom: 20px;
+}
 
 html, body {
     height: 100%;
@@ -57,3 +74,16 @@ html, body {
   #myTable {
     margin: 0 auto;
   }
+
+.cim {
+    text-align: center;
+}
+#fooldalgomb{
+    background-color: #3d3d3d;
+    border-radius: 25px;
+    border:none;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+
+  
