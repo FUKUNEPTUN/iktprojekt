@@ -1,0 +1,35 @@
+html{ height: 100%;
+    margin:0 ;
+    padding: 0;
+    border: none;}
+body {
+    background: #11154f;
+    color: white;
+}
+
+table {
+    text-align: center;
+}
+
+.cim {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: baseline;
+}
+
+#sskkk {
+    box-shadow: black 2px 2px;
+    min-width: 20px; 
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+.kk{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
